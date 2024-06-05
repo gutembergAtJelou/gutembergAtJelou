@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a todos, soy Gutemberg 👋
 
 <!--
 **gutembergAtJelou/gutembergAtJelou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Actualmente trabajo en temas relacionados con el Backend de Jelou e Inteligencia Artificial.
